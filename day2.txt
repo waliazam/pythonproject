@@ -1,0 +1,5 @@
+Exercise 6: Simple Interest Calculator
+1.	Ask the user for the principal amount.
+2.	Ask for the rate of interest (as a percentage).
+3.	Ask for the time period in years.
+4.	Calculate and display the simple interest using the formula: Simple Interest=(Principal×Rate×Time)/100
