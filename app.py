@@ -1,11 +1,14 @@
-print("Welcome to 2nd class of python")
-#welcome message
-name = input("Enter Your name: ")
-print("Hello " + name)
+#user input
+name = input("Enter you name: ")
+print("Hello, " + name + " , Good Morning")
 
-birth_year = input("Enter your birth Year: ")
-# culculate age 
+#type conversion
+birth_year = input("Enter your birth year")
+
 age = 2023 - int(birth_year)
 
-# display message 
-print("You are " + str(age) + " Years old.")
+print("You are " + str(age) + " Years Old")
+
+#git push
+
+
