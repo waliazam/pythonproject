@@ -18,7 +18,7 @@
 
 def add(a , b):
     c = a + b
-    print(c)
+    print("The sum is", c)
     
 
 d = int(input("Enter value for d: "))
